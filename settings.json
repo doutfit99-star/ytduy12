@@ -1,0 +1,10 @@
+{
+  "download_dir": "C:\\Users\\duy\\Downloads\\DUY_DOW_TEST",
+  "engine": "yt-dlp",
+  "quality": "best",
+  "max_concurrent": 3,
+  "auto_paste": true,
+  "sound_effects": true,
+  "theme": "dark",
+  "language": "vn"
+}
